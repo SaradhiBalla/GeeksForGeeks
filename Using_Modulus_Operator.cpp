@@ -4,6 +4,6 @@ main(){
 	int a,b,c; //Declaring three integer datatypes as a,b,c
 	scanf("%d %d",&a,&b); //Taking the input from the user
 	c=a%b; //Performing the modulus operation to the variable a and b and assigned to the variable c
-	printf("%d",c);
+	printf("%d",c);//Prints the variable c
 	
 }
